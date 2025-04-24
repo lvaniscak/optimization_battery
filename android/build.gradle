@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
+    namespace "com.ali.optimization_battery"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
